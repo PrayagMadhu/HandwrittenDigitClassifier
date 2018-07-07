@@ -7,3 +7,4 @@ Required libraries
 * Matplotlib
 
 # How to use:
+[jupyter][jupyter.org]
